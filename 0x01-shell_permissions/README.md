@@ -1,1 +1,1 @@
-NOT EMPTY
+#!/bin/bash
